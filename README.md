@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nicolaCirillo, master degree at University of Salerno, Italy
+- 👋 Hi, I’m @nicolaCirillo, Phd student at University of Salerno, Italy
 - 👀 I’m interested in Natural Language Processing and specifically on Multiword Expressions
 - 📫 How to reach me: nicola.cirillo96@outlook.it
 
