@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nicolaCirillo, Phd student at University of Salerno, Italy
-- 👀 I’m interested in Natural Language Processing and specifically on Multiword Expressions
-- 📫 How to reach me: nicola.cirillo96@outlook.it
+- 👋 Hi, I’m @nicolaCirillo, P.h.D. student at University of Salerno, Italy
+- 👀 I’m interested in Natural Language Processing and specifically on Multiword Expressions, Terminology, and Text Simplification.
+- 📫 How to reach me: nicirillo@unisa.it
 
 <!---
 nicolaCirillo/nicolaCirillo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
